@@ -1,0 +1,33 @@
+_repo: Pe-as-arriba_24127
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pereda, José María de
+    aliases:
+    - Pereda, Jose Maria de
+    - Porrua, Jose Maria de Pereda y Sanchez
+    - Porrúa, José María de Pereda y Sánchez
+    - Sánchez Porrúa, José María de Pereda y
+    - De Pereda, José María
+    birthdate: 1833
+    deathdate: 1906
+    gutenberg_agent_id: '4463'
+    url: http://www.gutenberg.org/2009/agents/4463
+    wikipedia: http://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_de_Pereda
+description: ''
+gutenberg_issued: '2008-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24127'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish fiction -- 19th century'
+title: Peñas arriba
+url: http://www.gutenberg.org/ebooks/24127
